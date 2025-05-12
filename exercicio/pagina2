@@ -1,0 +1,46 @@
+<DOCTYPE htmal>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>TechWave Soluções Digitais - Sobre Nós</title>
+        <link rel="Stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="container">
+            <head>
+                <img src="logo.png" alt="Logo da TechWave">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="sobre.html">Sobre nós</a></li>
+                        <li><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </head>
+            <main>
+                <div class="misson">
+                    <h2>Missão, Visão e Valores</h2>
+                    <p>Nossa missão e deixar deixa a rotina da sua empresa mais dinamica</p>
+                    <p>Nossa visão e que com a técnologia vamos alcançar uma nova era</p>
+                    <p>Nosso valores são </p>
+                </div>
+                <div clas="team">
+                    <h2>Nossa Equipe</h2>
+                    <table>
+                        <thead></thead>
+                        <tr><th>Nome</th>
+                            <th>Cargo</th>
+                            <th>E-mail</th>
+                        </tr>
+                    </table>
+                    <tbody><tr>Washington Heleno</tr>
+                           <tr>Estagiário</tr>
+                           <tr>wasantos@gmail.com</tr>
+                    </tbody>
+                    </table>
+                    </thead>
+                </div>
+            </main>
+        </div>
+    </body>    
